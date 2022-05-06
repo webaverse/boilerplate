@@ -1,0 +1,16 @@
+{
+  "name": "EXAMPLE",
+  "description": "EXAMPLE",
+  "start_url": "EXAMPLE.glb",
+  "components": [
+    {
+      "key": "sit",
+      "value": {
+        "subtype": "saddle",
+        "sitOffset": [0, 0.5, 0],
+        "speed": 0.02,
+        "damping": 0.99
+      }
+    }
+  ]
+}
