@@ -8,8 +8,6 @@ export default () => {
   useFrame(() => {
 
   });
-
-  app.add(o);
   
   return app;
 };
